@@ -30,12 +30,17 @@ My normal workflow is:
 
 ## Requirements
 
+Operating System
 - macOS
-- Pandoc
-- Wget
-- Terminal
-- Brave Browser (for the review step in one script)
-- Logos Bible Software for final import
+
+Terminal 
+- Pandoc  --- brew install pandoc
+- Wget    --- brew install wget
+
+Software
+- Obsidian Software                      --- https://obsidian.md/download
+- Brave Browser                          --- https://brave.com/download
+- Logos Bible Software for final import  --- https://www.logos.com/install
 
 ## Purpose
 
