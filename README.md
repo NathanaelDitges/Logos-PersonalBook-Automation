@@ -39,7 +39,7 @@ Terminal
 
 Software
 - Obsidian Software                      --- https://obsidian.md/download
-- Brave Browser                          --- https://brave.com/download
+- Brave Browser                          --- https://brave.com/download  (for the review step in one script)
 - Logos Bible Software for final import  --- https://www.logos.com/install
 
 ## Purpose
