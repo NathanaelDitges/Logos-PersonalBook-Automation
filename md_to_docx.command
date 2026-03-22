@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Folder that contains the Markdown files you want to convert.
-src="/Users/nathanditges/Documents/Docx for Logos"
+src="/Users/nathanditges/Documents/Docx_for_Logos"
 
 # If no .md files are found, make the glob expand to nothing
 # instead of staying as the literal string "*.md".
